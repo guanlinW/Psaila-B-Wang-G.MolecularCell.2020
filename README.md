@@ -4,7 +4,7 @@ This repository linked with Psaila B, Wang G, Rodriguez-Meira A, et al. Single-C
 
 Full paper: https://www.sciencedirect.com/science/article/pii/S1097276520302343
 
-R objects can be downloaded using the following links:
+## R objects can be downloaded using the following links:
 
 1. All aggregates (MF patients + Healthy donors)
 2. MF aggregates (MF patients only)
@@ -13,7 +13,8 @@ R objects can be downloaded using the following links:
 
 You can find the codes for each Figure in the corresponding folder.
 
-A shiny app with data was built. You can reach by https://github.com/supatt-lab/SingCellaR-myelofibrosis
+## A shiny app with data was built. 
+You can reach by https://github.com/supatt-lab/SingCellaR-myelofibrosis
 
 
 
