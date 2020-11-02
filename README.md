@@ -13,6 +13,9 @@ R objects can be downloaded using the following links:
 
 You can find the codes for each Figure in the corresponding folder.
 
+A shiny app with data was built. You can reach by https://github.com/supatt-lab/SingCellaR-myelofibrosis
+
+
 
 
 
