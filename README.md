@@ -7,7 +7,7 @@ Full paper: https://www.sciencedirect.com/science/article/pii/S1097276520302343
 ## R objects can be downloaded using the following links:
 
 1. All aggregates (MF patients + Healthy donors)
-http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/
+http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/All.rdata
 
 2. MF aggregates (MF patients only)
 http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/MF.rdata
