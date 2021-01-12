@@ -7,11 +7,20 @@ Full paper: https://www.sciencedirect.com/science/article/pii/S1097276520302343
 ## R objects can be downloaded using the following links:
 
 1. All aggregates (MF patients + Healthy donors)
-2. MF aggregates (MF patients only)
-3. Control aggregates (Healthy donors only)
-4. MKP clusters (linked to Fig5, extracted MKP cells + AUcell)
+http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/
 
-You can find the codes for each Figure in the corresponding folder.
+2. MF aggregates (MF patients only)
+http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/MF.rdata
+
+3. Control aggregates (Healthy donors only)
+http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/HD.rdata
+
+4. MKP clusters (linked to Fig5, extracted MKP cells + AUcell)
+http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/MKP.rdata
+
+You can find the codes for each Figure code folder above.
+Lineage genes can be found in the signature folder above.
+
 
 ## A shiny app with data was built. 
 You can reach by https://github.com/supatt-lab/SingCellaR-myelofibrosis
