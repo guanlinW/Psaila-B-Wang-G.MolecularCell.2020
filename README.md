@@ -19,7 +19,7 @@ http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/HD.rdata
 http://sara.molbiol.ox.ac.uk/public/gwang/Psaila_Wang_MC2020/MKP.rdata
 
 You can find the codes for each Figure code folder above.
-Lineage genes can be found in the signature folder above.
+Lineage genes can be found in the .gmt file above.
 
 
 ## A shiny app with data was built. 
