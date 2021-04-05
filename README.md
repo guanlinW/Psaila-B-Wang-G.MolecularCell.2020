@@ -27,6 +27,7 @@ You can reach by https://github.com/supatt-lab/SingCellaR-myelofibrosis
 
 ## Reproduce the figures 
 ### Figure2A-C 
+https://guanlinW.github.io/MC_revised_Figure2.html
 
 
 
